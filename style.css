@@ -1,3 +1,15 @@
 .hatter{
     background-color: chocolate;
 }
+
+.kep{
+        width:250px;
+        float:left;
+        margin-left: 150px;
+        margin-top: 20px;
+}
+
+.kep2{
+    float: right;
+    margin: auto;
+}
