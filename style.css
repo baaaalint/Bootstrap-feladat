@@ -13,3 +13,8 @@
     float: right;
     margin: auto;
 }
+
+.active{
+    color: black !important;
+    font-style: italic;
+}
