@@ -15,6 +15,7 @@
 }
 
 .active{
-    color: black !important;
+    color: rgb(255, 193, 7) !important;
     font-style: italic;
+    font-weight: bold;
 }
